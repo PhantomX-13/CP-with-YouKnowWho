@@ -1,0 +1,22 @@
+Iterator to the first element: 1
+Iterator to the element after the last: 0
+Iterator to the last element: 5
+Iterator to the element before the first: 0
+Iterator to the last element using --end: 5
+Vector after insert(2, 10): 1 2 10 3 4 5 
+Vector after erase(v.begin() + 2): 1 2 3 4 5 
+Vector after erase(v.begin(), v.begin() + 2): 3 4 5 
+Vector after reverse(v.begin(), v.end()): 5 4 3 
+Vector after sort(v.begin(), v.end()): 3 4 5 
+Vector after sort(v.rbegin(), v.rend()): 5 4 3 
+Vector u after swapping: 5 4 3 
+Vector u after swapping using member function: 6 7 8 9 10 
+Iterator to the first occurrence of 3: 3
+Element 10 not found in the vector.
+Number of occurrences of 3: 2
+Sum of all elements: 14
+Sum of all elements with initial value 5: 19
+Iterator to the minimum element: 1
+Minimum element: 1
+Iterator to the maximum element: 5
+Maximum element: 5

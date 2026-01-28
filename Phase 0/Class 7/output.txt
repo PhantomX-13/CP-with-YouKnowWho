@@ -1,0 +1,2 @@
+Sum of Row: 6 11 
+Sum of Column: 1 7 9 
