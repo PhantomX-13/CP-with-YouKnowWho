@@ -13,11 +13,11 @@ cin.tie(NULL);
     ll odd_count = (n+1)/2;
     ll rslt = 0;
 
-    if(k <= odd_count)
+    if (k<=odd_count)
     {
         rslt = 2*k - 1;
     }
-    if(k > odd_count)
+    if (k>odd_count)
     {
         rslt = 2 * (k - odd_count);
     }
